@@ -1,0 +1,20 @@
+body {
+    color:lawngreen;
+    background-color: black;
+    
+}
+header{ 
+    border-bottom: solid 1px;
+}
+.chamada {
+    
+    padding-bottom: 80px;
+    padding-top: 80px;
+    display: center;
+}
+img {
+    height: 200px;
+}
+.categoria-videos {
+    display: flex;
+}
